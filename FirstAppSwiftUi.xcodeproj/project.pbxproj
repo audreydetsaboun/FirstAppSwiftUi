@@ -13,6 +13,7 @@
 		CC0B4AA623D9E2F400C55B18 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC0B4AA523D9E2F400C55B18 /* Assets.xcassets */; };
 		CC0B4AA923D9E2F400C55B18 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CC0B4AA823D9E2F400C55B18 /* Preview Assets.xcassets */; };
 		CC0B4AAC23D9E2F400C55B18 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CC0B4AAA23D9E2F400C55B18 /* LaunchScreen.storyboard */; };
+		CC22D39223D9F84C001A2126 /* naruto.png in Resources */ = {isa = PBXBuildFile; fileRef = CC22D39123D9F84C001A2126 /* naruto.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		CC0B4AA823D9E2F400C55B18 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		CC0B4AAB23D9E2F400C55B18 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		CC0B4AAD23D9E2F400C55B18 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		CC22D39123D9F84C001A2126 /* naruto.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = naruto.png; path = ../../../../Downloads/naruto.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				CC0B4AA123D9E2EF00C55B18 /* SceneDelegate.swift */,
 				CC0B4AA323D9E2EF00C55B18 /* ContentView.swift */,
 				CC0B4AA523D9E2F400C55B18 /* Assets.xcassets */,
+				CC22D39123D9F84C001A2126 /* naruto.png */,
 				CC0B4AAA23D9E2F400C55B18 /* LaunchScreen.storyboard */,
 				CC0B4AAD23D9E2F400C55B18 /* Info.plist */,
 				CC0B4AA723D9E2F400C55B18 /* Preview Content */,
@@ -136,6 +139,7 @@
 				CC0B4AAC23D9E2F400C55B18 /* LaunchScreen.storyboard in Resources */,
 				CC0B4AA923D9E2F400C55B18 /* Preview Assets.xcassets in Resources */,
 				CC0B4AA623D9E2F400C55B18 /* Assets.xcassets in Resources */,
+				CC22D39223D9F84C001A2126 /* naruto.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
